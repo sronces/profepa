@@ -1,0 +1,15 @@
+{
+  "project_name": "Plataforma Integral de PROFEPA 1.0",
+  "repository_name": "profepa",
+  "baseline": "1.0.0",
+  "migration_date": "2026-09-01",
+  "source_doc": "SAAEL_3.0_Analisis_Requerimientos_y_Procesos_Actualizado_v2.docx",
+  "source_ppt": "SAAEL_3.0_Presentacion_Arquitectura_y_BI_v2.pptx",
+  "text_replacement": {
+    "legacy_reference": "reemplazada",
+    "new_reference": "Plataforma Integral de PROFEPA 1.0"
+  },
+  "validation_exact_phrase_remaining": [],
+  "file_count": 43,
+  "image_text_correction": "Embedded Word diagrams and standalone NFR diagram updated."
+}
